@@ -30,8 +30,10 @@ body{
 .footer{
   
     background-color: lightgray;
-   
-    
+   display:grid;
+    grid-template-columns: 8fr 1fr 1fr 1fr 1fr;
+    vertical-align: text-top;
+    align-items: center;
     
 }
 
